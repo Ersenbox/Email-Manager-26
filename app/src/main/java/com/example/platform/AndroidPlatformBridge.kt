@@ -1,5 +1,6 @@
 package com.example.platform
 
+import com.example.common.i18n.t
 import android.content.Context
 import android.content.Intent
 import android.media.AudioManager
@@ -99,7 +100,7 @@ class AndroidPlatformBridge(private val context: Context) : PlatformBridge {
             }
             context.startActivity(intent)
         } catch (e: Exception) {
-            showToastNotification("Bağlantı açılamadı: $url")
+            showToastNotification(t("Bağlantı açılamadı: {0}", url))
         }
     }
 
@@ -112,12 +113,12 @@ class AndroidPlatformBridge(private val context: Context) : PlatformBridge {
                 type = "text/plain"
                 flags = Intent.FLAG_ACTIVITY_NEW_TASK
             }
-            val shareIntent = Intent.createChooser(sendIntent, "E-posta Paylaş").apply {
+            val shareIntent = Intent.createChooser(sendIntent, t("E-posta Paylaş")).apply {
                 flags = Intent.FLAG_ACTIVITY_NEW_TASK
             }
             context.startActivity(shareIntent)
         } catch (e: Exception) {
-            showToastNotification("Paylaşım başarısız")
+            showToastNotification(t("Paylaşım başarısız"))
         }
     }
 
@@ -128,6 +129,40 @@ class AndroidPlatformBridge(private val context: Context) : PlatformBridge {
             current.add(id.trim())
             deletedPrefs.edit().putStringSet("ids", current).apply()
         } catch (_: Exception) {}
+    }
+
+    override fun removeDeletedIdentifier(id: String) {
+        if (id.isBlank()) return
+        try {
+            val current = deletedPrefs.getStringSet("ids", emptySet())?.toMutableSet() ?: mutableSetOf()
+            if (current.remove(id.trim())) {
+                deletedPrefs.edit().putStringSet("ids", current).apply()
+            }
+        } catch (_: Exception) {}
+    }
+
+    override fun attachmentDirectory(emailId: Long): java.io.File {
+        return java.io.File(java.io.File(context.cacheDir, "attachments"), emailId.toString())
+    }
+
+    override fun openFile(file: java.io.File, mimeType: String) {
+        try {
+            val uri = androidx.core.content.FileProvider.getUriForFile(
+                context,
+                "${context.packageName}.fileprovider",
+                file
+            )
+            val viewIntent = Intent(Intent.ACTION_VIEW).apply {
+                setDataAndType(uri, mimeType)
+                addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION)
+            }
+            val chooser = Intent.createChooser(viewIntent, file.name).apply {
+                addFlags(Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_GRANT_READ_URI_PERMISSION)
+            }
+            context.startActivity(chooser)
+        } catch (e: Exception) {
+            showToastNotification(t("Bu dosyayı açacak uygulama bulunamadı: {0}", file.name))
+        }
     }
 
     override fun isIdentifierDeleted(id: String): Boolean {

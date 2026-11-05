@@ -1,0 +1,396 @@
+'{0}' etiketi eklendi	Label „{0}“ hinzugefügt	Label '{0}' added	Étiquette « {0} » ajoutée
+'{0}' kuralı eklendi	Regel „{0}“ hinzugefügt	Rule '{0}' added	Règle « {0} » ajoutée
+'{0}' kuralı güncellendi	Regel „{0}“ aktualisiert	Rule '{0}' updated	Règle « {0} » mise à jour
+(Boş e-posta içeriği)	(Leerer E-Mail-Inhalt)	(Empty email content)	(Contenu de l'e-mail vide)
+(Konusuz)	(Kein Betreff)	(No subject)	(Sans objet)
+(İçerik ayrıştırılırken hata oluştu: {0})	(Fehler beim Lesen des Inhalts: {0})	(Error while reading the content: {0})	(Erreur lors de la lecture du contenu : {0})
+1-Tık Abonelikten Çık	Mit 1 Tipp abbestellen	Unsubscribe in 1 tap	Se désabonner en 1 clic
+16 Haneli Uygulama Şifresi	16-stelliges App-Passwort	16-digit app password	Mot de passe d'application à 16 caractères
+AKTİF	AKTIV	ACTIVE	ACTIF
+Abonelik & Bülten Temizleme	Abos & Newsletter aufräumen	Subscription & newsletter cleanup	Nettoyage des abonnements et newsletters
+Abonelik İptal	Abo gekündigt	Unsubscribed	Désabonné
+Abonelik İptal Edildi	Abo gekündigt	Subscription cancelled	Abonnement annulé
+Abonelikleri Yönet	Abos verwalten	Manage subscriptions	Gérer les abonnements
+Abonelikten Çık	Abbestellen	Unsubscribe	Se désabonner
+Abonelikten Çıkma İsteği Gönderildi	Abmeldung gesendet	Unsubscribe request sent	Demande de désabonnement envoyée
+Abonelikten çıkma isteği gönderildi.	Abmeldung wurde gesendet.	The unsubscribe request was sent.	La demande de désabonnement a été envoyée.
+Abonelikten çıkmayı açılan sayfada tamamlayın	Schließen Sie die Abmeldung auf der geöffneten Seite ab	Finish unsubscribing on the page that opened	Terminez le désabonnement sur la page ouverte
+Adımlar: Sayfada 'Uygulama adı'na Email-Manager 26 yazıp 'Oluştur'a basın. Verilen 16 harfli şifreyi yukarıdaki kutuya yapıştırın.	Schritte: Geben Sie auf der Seite als App-Namen Email-Manager 26 ein und tippen Sie auf „Erstellen“. Fügen Sie das 16-stellige Passwort oben ein.	Steps: Enter Email-Manager 26 as the app name on the page and tap Create. Paste the 16-letter password into the box above.	Étapes : saisissez Email-Manager 26 comme nom d'application puis appuyez sur Créer. Collez le mot de passe de 16 lettres ci-dessus.
+Aktif	Aktiv	Active	Actif
+Aktif Bülten	Aktive Newsletter	Active newsletters	Newsletters actives
+Aktif e-posta hesabınızdan gönderilecek	Wird von Ihrem aktiven E-Mail-Konto gesendet	Will be sent from your active email account	Sera envoyé depuis votre compte e-mail actif
+Aktif: {0}	Aktiv: {0}	Active: {0}	Actif : {0}
+Akıllı Filtreler	Intelligente Filter	Smart filters	Filtres intelligents
+Akıllı Filtreler & Kurallar	Intelligente Filter & Regeln	Smart filters & rules	Filtres intelligents et règles
+Akıllı Hızlı Yanıtlar:	Schnellantworten:	Quick replies:	Réponses rapides :
+Anahtar kelimeler (virgülle ayırın)	Stichwörter (durch Kommas getrennt)	Keywords (separate with commas)	Mots-clés (séparés par des virgules)
+Anladım	Verstanden	Got it	Compris
+Aramayı Temizle	Suche löschen	Clear search	Effacer la recherche
+Araçlar	Werkzeuge	Tools	Outils
+Arşiv ({0})	Archiv ({0})	Archive ({0})	Archives ({0})
+Arşivden çıkarılamadı	Konnte nicht aus dem Archiv geholt werden	Could not be unarchived	Impossible de désarchiver
+Arşivle	Archivieren	Archive	Archiver
+Arşivlenemedi	Konnte nicht archiviert werden	Could not be archived	Impossible d'archiver
+Arşivlenmiş e-posta bulunmuyor.	Keine archivierten E-Mails.	No archived emails.	Aucun e-mail archivé.
+Ayarlar	Einstellungen	Settings	Paramètres
+Aç	Öffnen	Open	Ouvrir
+Bağlantı Başarılı! Gelen Kutusunda {0} e-posta tespit edildi.	Verbindung erfolgreich! {0} E-Mails im Posteingang gefunden.	Connection successful! {0} emails found in the inbox.	Connexion réussie ! {0} e-mails trouvés dans la boîte de réception.
+Bağlantı açılamadı: {0}	Link konnte nicht geöffnet werden: {0}	Could not open the link: {0}	Impossible d'ouvrir le lien : {0}
+Bağlantı başarılı!	Verbindung erfolgreich!	Connection successful!	Connexion réussie !
+Bağlantı hatası!	Verbindungsfehler!	Connection error!	Erreur de connexion !
+Bağlantıyı Test Et	Verbindung testen	Test connection	Tester la connexion
+Başka Hesap Ekle	Weiteres Konto hinzufügen	Add another account	Ajouter un autre compte
+Bilgi	Info	Info	Infos
+Bilgilendirme için teşekkürler. 🤝	Danke für die Information. 🤝	Thanks for letting me know. 🤝	Merci pour l'information. 🤝
+Bilinmeyen Gönderen	Unbekannter Absender	Unknown sender	Expéditeur inconnu
+Bu Klasörde E-posta Yok	Keine E-Mails in diesem Ordner	No emails in this folder	Aucun e-mail dans ce dossier
+Bu dosyayı açacak uygulama bulunamadı: {0}	Keine App zum Öffnen dieser Datei gefunden: {0}	No app found to open this file: {0}	Aucune application pour ouvrir ce fichier : {0}
+Bu e-postada indirilebilir ek bulunamadı.	Diese E-Mail hat keinen herunterladbaren Anhang.	This email has no downloadable attachment.	Cet e-mail n'a aucune pièce jointe téléchargeable.
+Bu e-postanın eki sunucudan indirilemiyor	Der Anhang dieser E-Mail kann nicht vom Server geladen werden	This email's attachment cannot be downloaded from the server	La pièce jointe de cet e-mail ne peut pas être téléchargée
+Bu gönderen için abonelikten çıkma bağlantısı bulunamadı	Für diesen Absender wurde kein Abmeldelink gefunden	No unsubscribe link found for this sender	Aucun lien de désabonnement trouvé pour cet expéditeur
+Bu gönderene ait e-posta bulunamadı	Keine E-Mails von diesem Absender gefunden	No emails found from this sender	Aucun e-mail de cet expéditeur
+Bu hesap	Dieses Konto	This account	Ce compte
+Bu işlem geri alınamaz! Devam etmek istiyor musunuz?	Das kann nicht rückgängig gemacht werden! Möchten Sie fortfahren?	This cannot be undone! Do you want to continue?	Cette action est irréversible ! Voulez-vous continuer ?
+Buradaki tüm e-postalar Gmail hesabınızdaki Çöp Kutusu'na taşınmış olanlardır. İstediğiniz e-postayı Gelen Kutusuna geri yükleyebilir veya kalıcı olarak tamamen silebilirsiniz.	Alle E-Mails hier liegen im Papierkorb Ihres Gmail-Kontos. Sie können sie in den Posteingang zurückholen oder endgültig löschen.	All emails here are in the Trash of your Gmail account. You can restore them to the inbox or delete them permanently.	Tous ces e-mails sont dans la corbeille de votre compte Gmail. Vous pouvez les restaurer ou les supprimer définitivement.
+Buraya yanıtınızı yazın. Gerçek SMTP ile iletilecektir.	Schreiben Sie hier Ihre Antwort. Sie wird per SMTP gesendet.	Write your reply here. It will be sent via SMTP.	Écrivez votre réponse ici. Elle sera envoyée par SMTP.
+Bülten	Newsletter	Newsletter	Newsletter
+Bülten / Pazarlama Postası	Newsletter / Werbung	Newsletter / marketing	Newsletter / marketing
+Bülten, tanıtım & spam	Newsletter, Werbung & Spam	Newsletters, promotions & spam	Newsletters, promotions et spam
+Bültenler	Newsletter	Newsletters	Newsletters
+Bültenleri tek tıkla iptal edin ve çöpe atın	Newsletter mit einem Tipp abbestellen und löschen	Unsubscribe and trash newsletters in one tap	Désabonnez-vous et supprimez en un clic
+Demo postalar kaldırıldı. Gerçek Gmail hesabınızı bağlayarak e-postalarınızı hemen eşitleyebilirsiniz.	Verbinden Sie Ihr Gmail-Konto, um Ihre E-Mails zu synchronisieren.	Connect your Gmail account to sync your emails.	Connectez votre compte Gmail pour synchroniser vos e-mails.
+Dil	Sprache	Language	Langue
+Diğer	Sonstige	Other	Autres
+E-posta Adresi	E-Mail-Adresse	Email address	Adresse e-mail
+E-posta Gelen Kutusu'na geri yüklendi 📥	E-Mail in den Posteingang zurückgeholt 📥	Email restored to the inbox 📥	E-mail restauré dans la boîte de réception 📥
+E-posta Gelen Kutusu'na taşındı 📥	E-Mail in den Posteingang verschoben 📥	Email moved to the inbox 📥	E-mail déplacé vers la boîte de réception 📥
+E-posta Hesapları	E-Mail-Konten	Email accounts	Comptes e-mail
+E-posta Oku	E-Mail lesen	Read email	Lire l'e-mail
+E-posta Paylaş	E-Mail teilen	Share email	Partager l'e-mail
+E-posta Yaz	E-Mail schreiben	Compose	Écrire
+E-posta arşivlendi	E-Mail archiviert	Email archived	E-mail archivé
+E-posta başarıyla gönderildi ✉️	E-Mail erfolgreich gesendet ✉️	Email sent ✉️	E-mail envoyé ✉️
+E-posta boyutu: {0} KB	E-Mail-Größe: {0} KB	Email size: {0} KB	Taille de l'e-mail : {0} Ko
+E-posta göndermek için lütfen önce geçerli bir hesap ekleyin.	Bitte fügen Sie zuerst ein gültiges Konto hinzu.	Please add a valid account first.	Veuillez d'abord ajouter un compte valide.
+E-posta kalıcı olarak silindi 🗑️	E-Mail endgültig gelöscht 🗑️	Email deleted permanently 🗑️	E-mail supprimé définitivement 🗑️
+E-posta metnini buraya yazın...	E-Mail-Text hier eingeben...	Write your email here...	Écrivez votre e-mail ici...
+E-posta sadece uygulamada Çöp Kutusu'na aktarıldı 🗑️	E-Mail nur in der App in den Papierkorb verschoben 🗑️	Email moved to Trash in the app only 🗑️	E-mail placé dans la corbeille de l'application uniquement 🗑️
+E-posta sunucuda bulunamadı, sadece uygulamada güncellendi	E-Mail nicht auf dem Server gefunden, nur in der App geändert	Email not found on the server, updated in the app only	E-mail introuvable sur le serveur, modifié dans l'application uniquement
+E-posta sunucuda bulunamadı, sadece uygulamada çöpe taşındı	E-Mail nicht auf dem Server gefunden, nur in der App gelöscht	Email not found on the server, trashed in the app only	E-mail introuvable sur le serveur, supprimé dans l'application uniquement
+E-posta sunucuda bulunamadı.	E-Mail wurde auf dem Server nicht gefunden.	Email not found on the server.	E-mail introuvable sur le serveur.
+E-posta silindi, Çöp sekmesinden geri yüklenebilir 🗑️	E-Mail gelöscht, im Tab Papierkorb wiederherstellbar 🗑️	Email deleted, can be restored in the Trash tab 🗑️	E-mail supprimé, restaurable dans l'onglet Corbeille 🗑️
+E-postayı Yanıtla	E-Mail beantworten	Reply to email	Répondre à l'e-mail
+Bu e-postada gizli bir takip pikseli bulundu. Gönderen bununla açılma saatinizi, IP adresinizi ve yaklaşık konumunuzu öğrenebilir. Uygulama uzak görselleri yüklemediği için piksel çalışmadı.	In dieser E-Mail wurde ein verstecktes Tracking-Pixel gefunden. Damit kann der Absender Öffnungszeit, IP-Adresse und ungefähren Standort erfahren. Die App lädt keine externen Bilder, deshalb wurde das Pixel nicht ausgeführt.	A hidden tracking pixel was found in this email. The sender could use it to learn when you opened it, your IP address and approximate location. The app does not load remote images, so the pixel did not run.	Un pixel de suivi caché a été trouvé dans cet e-mail. Il pourrait révéler l'heure d'ouverture, votre adresse IP et votre position approximative. L'application ne charge pas les images distantes, le pixel n'a donc pas fonctionné.
+Ek	Anhang	Attachment	Pièce jointe
+Ek Dosya	Anhang	Attachment	Pièce jointe
+Ek Dosyalar	Anhänge	Attachments	Pièces jointes
+Ek indirilemedi: {0}	Anhang konnte nicht geladen werden: {0}	Attachment could not be downloaded: {0}	Impossible de télécharger la pièce jointe : {0}
+Ekli Dosyalar	Mit Anhang	With attachments	Avec pièces jointes
+Etiket Adı	Label-Name	Label name	Nom de l'étiquette
+Etiket Ekle	Label hinzufügen	Add label	Ajouter une étiquette
+Etiket:	Label:	Label:	Étiquette :
+Etiket: #{0}	Label: #{0}	Label: #{0}	Étiquette : #{0}
+Etiketi Ekle	Label hinzufügen	Add label	Ajouter l'étiquette
+Evet, Kalıcı Olarak Sil	Ja, endgültig löschen	Yes, delete permanently	Oui, supprimer définitivement
+Eşitle	Synchronisieren	Sync	Synchroniser
+Eşitleme kısmen tamamlandı, kalan postalar sonraki eşitlemede alınacak	Teilweise synchronisiert, der Rest folgt beim nächsten Mal	Partly synced, the rest follows next time	Synchronisation partielle, le reste suivra
+Eşitleme zaman aşımına uğradı. Tekrar deneyin.	Zeitüberschreitung bei der Synchronisierung. Bitte erneut versuchen.	Sync timed out. Please try again.	La synchronisation a expiré. Veuillez réessayer.
+Eşitleniyor	Wird synchronisiert	Syncing	Synchronisation
+Formu Gizle	Formular ausblenden	Hide form	Masquer le formulaire
+Galeriden resim seç	Bild aus Galerie wählen	Choose image from gallery	Choisir une image dans la galerie
+Gece	Nacht	Night	Nuit
+Gelen	Eingang	Inbox	Réception
+Gelen Kutusu	Posteingang	Inbox	Boîte de réception
+Gelen Kutusu (Posteingang)	Posteingang	Inbox	Boîte de réception
+Gelen Kutusu Temizlik Durumu	Aufräumstatus des Posteingangs	Inbox cleanup status	État de nettoyage de la boîte
+Gelen Kutusuna Taşı	In den Posteingang verschieben	Move to inbox	Déplacer vers la boîte de réception
+Gelişmiş Sunucu Ayarları (IMAP/SMTP)	Erweiterte Servereinstellungen (IMAP/SMTP)	Advanced server settings (IMAP/SMTP)	Paramètres serveur avancés (IMAP/SMTP)
+Genel arşiv	Allgemeines Archiv	General archive	Archives générales
+Geri	Zurück	Back	Retour
+Geri Yükle	Wiederherstellen	Restore	Restaurer
+Geri yüklenemedi	Konnte nicht wiederhergestellt werden	Could not be restored	Impossible de restaurer
+Gerçek Gmail Eşitlemeli	Mit Gmail synchronisiert	Synced with Gmail	Synchronisé avec Gmail
+Gerçek Gmail Senkronizasyonu & Bilgi	Gmail-Synchronisierung & Info	Gmail sync & info	Synchronisation Gmail et infos
+Gerçek Gmail Çöp Kutusu (Papierkorb)	Gmail-Papierkorb	Gmail Trash	Corbeille Gmail
+Gerçek IMAP/SMTP ile senkronizasyon	Synchronisierung über IMAP/SMTP	Sync via IMAP/SMTP	Synchronisation via IMAP/SMTP
+Gizlilik Kalkanı Raporu	Datenschutzbericht	Privacy report	Rapport de confidentialité
+Gizlilik Koruması Aktif	Datenschutz aktiv	Privacy protection active	Protection de la vie privée active
+Gmail / E-posta Hesabı Ekle	Gmail-/E-Mail-Konto hinzufügen	Add Gmail / email account	Ajouter un compte Gmail / e-mail
+Gmail 16 Haneli Uygulama Şifresi Rehberi	Anleitung: 16-stelliges Gmail-App-Passwort	Guide: 16-digit Gmail app password	Guide : mot de passe d'application Gmail
+Gmail Girişi: 16 Haneli Şifre Gerekli	Gmail-Anmeldung: 16-stelliges Passwort nötig	Gmail sign-in: 16-digit password required	Connexion Gmail : mot de passe à 16 caractères requis
+Gmail Hızlı Eşitlendi: {0} Gelen, {1} Çöp, {2} Spam ✅	Gmail synchronisiert: {0} Eingang, {1} Papierkorb, {2} Spam ✅	Gmail synced: {0} inbox, {1} trash, {2} spam ✅	Gmail synchronisé : {0} reçus, {1} corbeille, {2} spam ✅
+Gmail Kimlik Doğrulama Hatası: Normal Gmail şifreniz kabul edilmedi. myaccount.google.com/apppasswords adresinden 16 haneli 'Uygulama Şifresi' alınız.	Gmail-Anmeldefehler: Ihr normales Passwort wurde nicht akzeptiert. Erstellen Sie unter myaccount.google.com/apppasswords ein 16-stelliges App-Passwort.	Gmail sign-in error: your normal password was rejected. Create a 16-digit app password at myaccount.google.com/apppasswords.	Erreur de connexion Gmail : mot de passe refusé. Créez un mot de passe d'application sur myaccount.google.com/apppasswords.
+Gmail Menüsü	Menü	Menu	Menu
+Gmail tam senkronize	Gmail synchronisiert	Gmail is synced	Gmail synchronisé
+Gmail Çöp Kutusunu Boşalt	Gmail-Papierkorb leeren	Empty Gmail Trash	Vider la corbeille Gmail
+Postalarda ara...	In E-Mails suchen...	Search emails...	Rechercher...
+Gmail, Outlook, Yahoo veya özel IMAP/SMTP sunucunuzu bağlayın.	Verbinden Sie Gmail, Outlook, Yahoo oder Ihren eigenen IMAP/SMTP-Server.	Connect Gmail, Outlook, Yahoo or your own IMAP/SMTP server.	Connectez Gmail, Outlook, Yahoo ou votre serveur IMAP/SMTP.
+Gmail: Google normal şifreyi engeller. 16 haneli Uygulama Şifresini düzenlemek için dokunun.	Gmail: Google blockiert das normale Passwort. Tippen Sie, um das 16-stellige App-Passwort zu ändern.	Gmail: Google blocks the normal password. Tap to edit the 16-digit app password.	Gmail : Google bloque le mot de passe normal. Appuyez pour modifier le mot de passe d'application.
+Google Güvenlik Kuralı: Google, normal Gmail şifrenizi engelledi. E-posta okumak ve göndermek için 16 haneli 'Uygulama Şifresi' (App Password) zorunludur.	Google hat Ihr normales Passwort blockiert. Zum Lesen und Senden ist ein 16-stelliges App-Passwort erforderlich.	Google blocked your normal password. A 16-digit app password is required to read and send email.	Google a bloqué votre mot de passe normal. Un mot de passe d'application est requis.
+Google Uygulama Şifresi Sayfasını Aç (1-Tık)	Google-App-Passwort-Seite öffnen	Open Google app password page	Ouvrir la page des mots de passe Google
+Google Uygulama Şifresi Zorunludur	Google-App-Passwort erforderlich	Google app password required	Mot de passe d'application Google requis
+Google doğrulaması tamamlanamadı: {0}	Google-Bestätigung fehlgeschlagen: {0}	Google verification failed: {0}	Échec de la vérification Google : {0}
+Google güvenlik protokolleri gereği normal şifrenizi engeller. Giriş yapabilmek için 'myaccount.google.com/apppasswords' adresinden 16 haneli 'Uygulama Şifresi' alarak hesap ayarlarından giriniz.	Google blockiert aus Sicherheitsgründen Ihr normales Passwort. Erstellen Sie unter myaccount.google.com/apppasswords ein 16-stelliges App-Passwort und tragen Sie es in den Kontoeinstellungen ein.	For security, Google blocks your normal password. Create a 16-digit app password at myaccount.google.com/apppasswords and enter it in the account settings.	Pour des raisons de sécurité, Google bloque votre mot de passe normal. Créez un mot de passe d'application sur myaccount.google.com/apppasswords et saisissez-le dans les paramètres du compte.
+Google ile doğrula	Mit Google bestätigen	Verify with Google	Vérifier avec Google
+Google ile doğrulandı: {0}	Mit Google bestätigt: {0}	Verified with Google: {0}	Vérifié avec Google : {0}
+Google normal hesap şifrenizle girişi engellemektedir. 16 haneli Uygulama Şifresi (App Password) almanız gerekir:	Google blockiert die Anmeldung mit dem normalen Passwort. Sie benötigen ein 16-stelliges App-Passwort:	Google blocks sign-in with your normal password. You need a 16-digit app password:	Google bloque la connexion avec votre mot de passe normal. Il vous faut un mot de passe d'application :
+Google normal şifrenizi engelledi. 'Uygulama Şifresi' girmek için buraya dokunun.	Google hat Ihr normales Passwort blockiert. Tippen Sie hier, um ein App-Passwort einzugeben.	Google blocked your normal password. Tap here to enter an app password.	Google a bloqué votre mot de passe. Appuyez ici pour saisir un mot de passe d'application.
+Google resmi için Google Cloud OAuth ayarı gerekiyor. Bu sürümde ayarlı değil.	Für das Google-Bild ist eine Google-Cloud-OAuth-Einrichtung nötig. Sie ist in dieser Version nicht eingerichtet.	The Google picture needs a Google Cloud OAuth setup. It is not set up in this version.	L'image Google nécessite une configuration OAuth Google Cloud, absente de cette version.
+Google'dan Şifre Al (1-Tık)	Passwort bei Google erstellen	Get password from Google	Obtenir le mot de passe chez Google
+Google, güvenlik sebebiyle normal Gmail şifrenizle e-posta erişimini engeller. E-postalarınızı yönetebilmek için 16 haneli 'Uygulama Şifresi' (App Password) almalısınız:	Google blockiert aus Sicherheitsgründen den Zugriff mit dem normalen Passwort. Zum Verwalten Ihrer E-Mails benötigen Sie ein 16-stelliges App-Passwort:	For security, Google blocks access with your normal password. To manage your emails you need a 16-digit app password:	Pour des raisons de sécurité, Google bloque l'accès avec votre mot de passe normal. Il vous faut un mot de passe d'application :
+Gönder ✉️	Senden ✉️	Send ✉️	Envoyer ✉️
+Gönderen	Absender	Sender	Expéditeur
+Gönderen: {0}	Absender: {0}	From: {0}	De : {0}
+Gönderenler & Abonelik Listeleri ({0})	Absender & Abo-Listen ({0})	Senders & subscription lists ({0})	Expéditeurs et abonnements ({0})
+Gönderilemedi	Konnte nicht gesendet werden	Could not be sent	Envoi impossible
+Gönderilemedi: {0}	Konnte nicht gesendet werden: {0}	Could not be sent: {0}	Envoi impossible : {0}
+Gönderilen	Gesendet	Sent	Envoyés
+Gönderiliyor...	Wird gesendet...	Sending...	Envoi...
+Gönderme hatası	Sendefehler	Sending error	Erreur d'envoi
+Görünmez takip pikseli bulundu, yüklenmedi (Detay için dokunun)	Unsichtbares Tracking-Pixel gefunden, nicht geladen (für Details tippen)	Invisible tracking pixel found, not loaded (tap for details)	Pixel de suivi invisible détecté, non chargé (appuyez pour les détails)
+Görünüm	Darstellung	Appearance	Apparence
+Gündüz	Tag	Day	Jour
+Güvenlik uyarısı: Sunucu sertifikası doğrulanamadı, bağlantı kesildi. Şifreniz gönderilmedi.	Sicherheitswarnung: Das Serverzertifikat konnte nicht geprüft werden. Die Verbindung wurde getrennt, Ihr Passwort wurde nicht gesendet.	Security warning: the server certificate could not be verified. The connection was closed and your password was not sent.	Alerte de sécurité : certificat du serveur non vérifié. Connexion interrompue, mot de passe non envoyé.
+Hata: {0}	Fehler: {0}	Error: {0}	Erreur : {0}
+Hedef Kategori:	Zielkategorie:	Target category:	Catégorie cible :
+Henüz E-posta Hesabı Eklenmedi	Noch kein E-Mail-Konto hinzugefügt	No email account added yet	Aucun compte e-mail ajouté
+Henüz doğrulanmadı	Noch nicht bestätigt	Not verified yet	Pas encore vérifié
+Henüz hesap eklenmedi	Noch kein Konto	No account yet	Aucun compte
+Henüz senkronize edilmedi	Noch nicht synchronisiert	Not synced yet	Pas encore synchronisé
+Hesabı Sil	Konto löschen	Delete account	Supprimer le compte
+Hesap	Konto	Account	Compte
+Hesap Adı / Tanımı	Kontoname / Beschreibung	Account name / description	Nom du compte / description
+Hesap doğrulandı	Konto bestätigt	Account verified	Compte vérifié
+Hesap doğrulandı, Google resmi alınamadı	Konto bestätigt, Google-Bild konnte nicht geladen werden	Account verified, Google picture could not be loaded	Compte vérifié, image Google non récupérée
+Hesap doğrulandı, Google resmi eklendi	Konto bestätigt, Google-Bild hinzugefügt	Account verified, Google picture added	Compte vérifié, image Google ajoutée
+Hesap Şifresi	Kontopasswort	Account password	Mot de passe du compte
+Hesap Şifresini Güncelle	Kontopasswort aktualisieren	Update account password	Mettre à jour le mot de passe
+Hesaplar	Konten	Accounts	Comptes
+Hesapları Yönet & Giriş	Konten verwalten & Anmeldung	Manage accounts & sign in	Gérer les comptes et connexion
+Hızlı Yanıtla:	Schnellantwort:	Quick reply:	Réponse rapide :
+IMAP Sunucu	IMAP-Server	IMAP server	Serveur IMAP
+Kaldır	Abwählen	Clear	Retirer
+Kalıcı Olarak Sil	Endgültig löschen	Delete permanently	Supprimer définitivement
+Kalıcı Olarak Silinsin mi?	Endgültig löschen?	Delete permanently?	Supprimer définitivement ?
+Kapat	Schließen	Close	Fermer
+Kategori: {0}	Kategorie: {0}	Category: {0}	Catégorie : {0}
+Kaydet & Başla	Speichern & starten	Save & start	Enregistrer et démarrer
+Kaydet & Senkronize Et	Speichern & synchronisieren	Save & sync	Enregistrer et synchroniser
+Kayıtlı Hesaplar ({0})	Gespeicherte Konten ({0})	Saved accounts ({0})	Comptes enregistrés ({0})
+Kazanılan Alan	Gewonnener Speicher	Space gained	Espace gagné
+Kime	An	To	À
+Kime (Alıcı E-posta)	An (Empfänger)	To (recipient)	À (destinataire)
+Kimlik doğrulama başarısız! Lütfen e-posta adresinizi ve şifrenizi kontrol edin.	Anmeldung fehlgeschlagen! Bitte prüfen Sie E-Mail-Adresse und Passwort.	Sign-in failed! Please check your email address and password.	Échec de la connexion ! Vérifiez votre adresse e-mail et votre mot de passe.
+Kişisel E-posta	Persönliche E-Mail	Personal email	E-mail personnel
+Konu	Betreff	Subject	Objet
+Kullanıcı	Benutzer	User	Utilisateur
+Kullanılan Alan	Belegter Speicher	Space used	Espace utilisé
+Kural Başlığı	Regelname	Rule name	Nom de la règle
+Kural Ekle	Regel hinzufügen	Add rule	Ajouter une règle
+Kurallar	Regeln	Rules	Règles
+Kurallar eşitlenen tüm postalara uygulanır ve kategori veya etiket ekler. Gmail hesabınızdaki postalar değişmez.	Regeln gelten für alle synchronisierten E-Mails und setzen Kategorie oder Label. Die E-Mails in Ihrem Gmail-Konto bleiben unverändert.	Rules apply to all synced emails and set a category or label. The emails in your Gmail account stay unchanged.	Les règles s'appliquent aux e-mails synchronisés et ajoutent une catégorie ou une étiquette. Votre compte Gmail reste inchangé.
+Kurallar nasıl çalışır?	Wie funktionieren Regeln?	How do rules work?	Comment fonctionnent les règles ?
+Kurallar sadece bu uygulamada çalışır	Regeln gelten nur in dieser App	Rules only work in this app	Les règles ne fonctionnent que dans cette application
+Kuralı Düzenle	Regel bearbeiten	Edit rule	Modifier la règle
+Kuralı Kaydet	Regel speichern	Save rule	Enregistrer la règle
+Kuralı Sil	Regel löschen	Delete rule	Supprimer la règle
+Käufe	Käufe	Purchases	Achats
+Käufe / Alışveriş	Käufe	Purchases	Achats
+Kısmi eşitleme	Teilweise synchronisiert	Partial sync	Synchronisation partielle
+Manuel Senkronize Et	Manuell synchronisieren	Sync manually	Synchroniser manuellement
+Menü Aç	Menü öffnen	Open menu	Ouvrir le menu
+Okumak için bir e-posta seçin	Wählen Sie eine E-Mail zum Lesen	Select an email to read	Sélectionnez un e-mail à lire
+Okundu Yap	Als gelesen markieren	Mark as read	Marquer comme lu
+Okunmadı Yap	Als ungelesen markieren	Mark as unread	Marquer comme non lu
+Okunmamış	Ungelesen	Unread	Non lus
+Okunmamış ({0})	Ungelesen ({0})	Unread ({0})	Non lus ({0})
+Okunmamış postalar	Ungelesene E-Mails	Unread emails	E-mails non lus
+Onaylıyorum, harika. ✅	Ich bestätige, sehr gut. ✅	Confirmed, great. ✅	Je confirme, parfait. ✅
+Onaylıyorum, uygun. ✅	Ich bestätige, das passt. ✅	Confirmed, that works. ✅	Je confirme, cela me convient. ✅
+Orijinal İleti Özeti ({0}):	Zusammenfassung der Originalnachricht ({0}):	Original message summary ({0}):	Résumé du message d'origine ({0}) :
+Otomasyon ve Filtreleme Kuralları ({0})	Automatisierungs- und Filterregeln ({0})	Automation & filter rules ({0})	Règles d'automatisation et de filtrage ({0})
+Otomatik Arşivle	Automatisch archivieren	Auto-archive	Archiver automatiquement
+Otomatik Dağıtım / Bülten Listesi	Verteiler / Newsletter	Mailing list / newsletter	Liste de diffusion / newsletter
+Paylaş	Teilen	Share	Partager
+Paylaşım başarısız	Teilen fehlgeschlagen	Sharing failed	Échec du partage
+Piksel Engellendi	Pixel blockiert	Pixel blocked	Pixel bloqué
+Profil resmi	Profilbild	Profile picture	Photo de profil
+Renk Seçin:	Farbe wählen:	Choose a colour:	Choisissez une couleur :
+Resim okunamadı	Bild konnte nicht gelesen werden	Image could not be read	Impossible de lire l'image
+Resmi kaldır	Bild entfernen	Remove picture	Retirer l'image
+SMTP Sunucu	SMTP-Server	SMTP server	Serveur SMTP
+Sadece bu uygulamada arşivle (Gmail değişmez)	Nur in dieser App archivieren (Gmail bleibt unverändert)	Archive in this app only (Gmail stays unchanged)	Archiver dans cette application uniquement (Gmail inchangé)
+Senkronizasyon hatası	Synchronisierungsfehler	Sync error	Erreur de synchronisation
+Senkronize ediliyor...	Wird synchronisiert...	Syncing...	Synchronisation...
+Seç	Auswählen	Select	Sélectionner
+Seçilen E-postaları Çöpe At	Ausgewählte E-Mails löschen	Trash selected emails	Supprimer les e-mails sélectionnés
+Seçilen Google hesabı bu e-posta ile eşleşmiyor: {0}	Das gewählte Google-Konto passt nicht zu dieser E-Mail-Adresse: {0}	The selected Google account does not match this email: {0}	Le compte Google choisi ne correspond pas à cet e-mail : {0}
+Seçilen {0} adet e-posta silinecek.	{0} ausgewählte E-Mails werden gelöscht.	{0} selected emails will be deleted.	{0} e-mails sélectionnés seront supprimés.
+Sil	Löschen	Delete	Supprimer
+Sil ({0})	Löschen ({0})	Delete ({0})	Supprimer ({0})
+Silinecekler	Zu löschen	To delete	À supprimer
+Silinemedi: {0}	Konnte nicht gelöscht werden: {0}	Could not be deleted: {0}	Suppression impossible : {0}
+Silinen e-posta bulunmuyor.	Keine gelöschten E-Mails.	No deleted emails.	Aucun e-mail supprimé.
+Sistem	System	System	Système
+Sol üstteki menü butonundan gerçek Gmail'inizdeki gibi tüm etiketlere (Markiert, Wichtig, Käufe, Gesendet, Papierkorb) ve sunucu klasörlerinize doğrudan ulaşabilirsiniz.	Über das Menü oben links erreichen Sie alle Ordner Ihres Kontos, zum Beispiel Markiert, Wichtig, Käufe, Gesendet und Papierkorb.	The menu at the top left opens all folders of your account, such as Starred, Important, Purchases, Sent and Trash.	Le menu en haut à gauche ouvre tous les dossiers de votre compte : suivis, importants, achats, envoyés et corbeille.
+Son Eşitleme: {0}	Letzte Synchronisierung: {0}	Last sync: {0}	Dernière synchronisation : {0}
+Son eşitleme	Letzte Synchronisierung	Last sync	Dernière synchronisation
+Sunucu Ayarlarını Gizle	Servereinstellungen ausblenden	Hide server settings	Masquer les paramètres serveur
+Sunucu Klasörleri	Serverordner	Server folders	Dossiers du serveur
+Sunucu girişi doğrulandı: {0}	Server-Anmeldung bestätigt: {0}	Server sign-in verified: {0}	Connexion au serveur vérifiée : {0}
+Sunucuda arşiv klasörü bulunamadı.	Auf dem Server wurde kein Archivordner gefunden.	No archive folder found on the server.	Aucun dossier d'archives sur le serveur.
+Sunucuda çöp kutusu klasörü bulunamadı. E-posta silinmedi.	Auf dem Server wurde kein Papierkorb gefunden. Die E-Mail wurde nicht gelöscht.	No Trash folder found on the server. The email was not deleted.	Aucune corbeille sur le serveur. L'e-mail n'a pas été supprimé.
+Sunucuya bağlanılamadı (Zaman aşımı). İnternet bağlantınızı veya sunucu adreslerini kontrol edin.	Keine Verbindung zum Server (Zeitüberschreitung). Prüfen Sie Ihre Internetverbindung oder die Serveradressen.	Could not connect to the server (timeout). Check your internet connection or the server addresses.	Connexion au serveur impossible (délai dépassé). Vérifiez votre connexion ou les adresses du serveur.
+Sunucuya bağlanılamadı. İnternet bağlantınızı kontrol edip tekrar deneyin.	Keine Verbindung zum Server. Prüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.	Could not connect to the server. Check your internet connection and try again.	Connexion au serveur impossible. Vérifiez votre connexion et réessayez.
+Sıfırla	Zurücksetzen	Reset	Réinitialiser
+Tek tıkla bülten listesinden çıkabilirsiniz.	Mit einem Tipp aus dem Verteiler austragen.	Leave the mailing list with one tap.	Quittez la liste en un clic.
+Temizle	Aufräumen	Clean up	Nettoyer
+Temizlik	Aufräumen	Clean up	Nettoyage
+Temizlik & Abonelik	Aufräumen & Abos	Cleanup & subscriptions	Nettoyage et abonnements
+Test Ediliyor...	Wird getestet...	Testing...	Test en cours...
+Teşekkür ederim, aldım! 👍	Danke, ist angekommen! 👍	Thanks, received! 👍	Merci, bien reçu ! 👍
+Toplantıya katılım sağlayacağım. 📅	Ich nehme am Termin teil. 📅	I will attend the meeting. 📅	Je participerai à la réunion. 📅
+Tüm Gelen Kutuları	Alle Posteingänge	All inboxes	Toutes les boîtes de réception
+Tüm e-postalar	Alle E-Mails	All emails	Tous les e-mails
+Tümü	Alle	All	Tous
+Uygulama Şifresi	App-Passwort	App password	Mot de passe d'application
+Uygulamada sildiğiniz e-postalar doğrudan gerçek Gmail hesabınızdaki Çöp Kutusu'na (Papierkorb) aktarılır. Açılan onay penceresiyle silmeyi teyit edebilirsiniz. Silinen e-postalar Gmail mobil ve web uygulamanızda da anında Çöp Kutusu'nda görünür ve geri yüklenebilir.	In der App gelöschte E-Mails werden in den Papierkorb Ihres Gmail-Kontos verschoben. Sie bestätigen das Löschen in einem Fenster. Die E-Mails erscheinen auch in Gmail im Papierkorb und können wiederhergestellt werden.	Emails deleted in the app are moved to the Trash of your Gmail account. You confirm the deletion in a dialog. They also appear in Trash in Gmail and can be restored.	Les e-mails supprimés sont déplacés vers la corbeille de votre compte Gmail. Vous confirmez dans une fenêtre. Ils apparaissent aussi dans la corbeille Gmail et peuvent être restaurés.
+Vazgeç	Abbrechen	Cancel	Annuler
+Yanıtla	Antworten	Reply	Répondre
+Yanıtı Gönder	Antwort senden	Send reply	Envoyer la réponse
+Yanıtınız...	Ihre Antwort...	Your reply...	Votre réponse...
+Yardım & Bilgi	Hilfe & Info	Help & info	Aide et infos
+Yeni Akıllı Filtre Kuralı Oluştur	Neue Filterregel erstellen	Create new filter rule	Créer une règle de filtrage
+Yeni E-posta Gönder (SMTP)	Neue E-Mail senden (SMTP)	Send new email (SMTP)	Envoyer un nouvel e-mail (SMTP)
+Yeni Gelenler	Neu eingegangen	New arrivals	Nouveaux
+Yeni Gerçek Hesap Ekle	Neues Konto hinzufügen	Add new account	Ajouter un compte
+Yeni Posta	Neue E-Mail	New email	Nouvel e-mail
+Yeni e-posta alındı: {0}	Neue E-Mail empfangen: {0}	New email received: {0}	Nouvel e-mail reçu : {0}
+Yeni e-postaları sunucudan çekmek için 'Senkronize Et' butonuna dokunun.	Tippen Sie auf „Synchronisieren“, um neue E-Mails zu laden.	Tap Sync to load new emails.	Appuyez sur Synchroniser pour charger les nouveaux e-mails.
+Yeni Özel Etiket Ekle	Neues Label hinzufügen	Add new label	Ajouter une étiquette
+Yıldızla	Markieren	Star	Suivre
+Yıldızlı	Markiert	Starred	Suivis
+Yıldızlı ({0})	Markiert ({0})	Starred ({0})	Suivis ({0})
+Yıldızlı ve öncelikli	Markiert und wichtig	Starred and priority	Suivis et prioritaires
+"{0}" başlıklı e-posta gerçek Gmail hesabınızdan ve sunucudan kalıcı olarak tamamen silinecektir.	Die E-Mail „{0}“ wird endgültig aus Ihrem Gmail-Konto und vom Server gelöscht.	The email "{0}" will be permanently deleted from your Gmail account and the server.	L'e-mail « {0} » sera définitivement supprimé de votre compte Gmail et du serveur.
+"{0}" başlıklı e-posta silinecek.	Die E-Mail „{0}“ wird gelöscht.	The email "{0}" will be deleted.	L'e-mail « {0} » sera supprimé.
+\n\n--- Orijinal İleti ---\nGönderen: 	\n\n--- Originalnachricht ---\nVon: 	\n\n--- Original message ---\nFrom: 	\n\n--- Message d'origine ---\nDe :
+\n\n---------- İletilen İleti ----------\nGönderen: {0} <{1}>\nKonu: {2}\n\n{3}	\n\n---------- Weitergeleitete Nachricht ----------\nVon: {0} <{1}>\nBetreff: {2}\n\n{3}	\n\n---------- Forwarded message ----------\nFrom: {0} <{1}>\nSubject: {2}\n\n{3}	\n\n---------- Message transféré ----------\nDe : {0} <{1}>\nObjet : {2}\n\n{3}
+{0} ({1}) göndericisine ait {2} adet e-posta silinecek.	{2} E-Mails von {0} ({1}) werden gelöscht.	{2} emails from {0} ({1}) will be deleted.	{2} e-mails de {0} ({1}) seront supprimés.
+{0} ({1}) senkronize ediliyor...	{0} ({1}) wird synchronisiert...	Syncing {0} ({1})...	Synchronisation de {0} ({1})...
+{0} E-postalarını Çöpe At	E-Mails von {0} löschen	Trash emails from {0}	Supprimer les e-mails de {0}
+{0} aboneliğinden çıkıldı ✅	{0} abbestellt ✅	Unsubscribed from {0} ✅	Désabonné de {0} ✅
+{0} e-posta	{0} E-Mails	{0} emails	{0} e-mails
+{0} e-posta kalıcı olarak silindi 🗑️	{0} E-Mails endgültig gelöscht 🗑️	{0} emails permanently deleted 🗑️	{0} e-mails supprimés définitivement 🗑️
+{0} e-posta silindi, {1} e-posta silinemedi	{0} E-Mails gelöscht, {1} nicht gelöscht	{0} emails deleted, {1} not deleted	{0} e-mails supprimés, {1} non supprimés
+{0} e-posta silindi, Çöp sekmesinden geri yüklenebilir 🗑️	{0} E-Mails gelöscht, im Tab Papierkorb wiederherstellbar 🗑️	{0} emails deleted, can be restored in the Trash tab 🗑️	{0} e-mails supprimés, restaurables dans l'onglet Corbeille 🗑️
+{0} e-posta taşınamadı ve yerinde bırakıldı: {1}	{0} E-Mails konnten nicht verschoben werden: {1}	{0} emails could not be moved and stayed in place: {1}	{0} e-mails n'ont pas pu être déplacés : {1}
+{0} e-posta uygulamada Çöp Kutusu'na aktarıldı 🗑️	{0} E-Mails in der App in den Papierkorb verschoben 🗑️	{0} emails moved to Trash in the app 🗑️	{0} e-mails placés dans la corbeille de l'application 🗑️
+{0} hesabı kaldırıldı	Konto {0} entfernt	Account {0} removed	Compte {0} supprimé
+{0} hesabı kaydedildi	Konto {0} gespeichert	Account {0} saved	Compte {0} enregistré
+{0} hesabının sunucudaki çöp kutusunun TAMAMI kalıcı olarak silinecektir. Uygulamada görünmeyen eski çöp postaları da buna dahildir. Diğer hesaplar etkilenmez.\n\nBu işlem geri alınamaz! Kalıcı olarak silmek istediğinize emin misiniz?	Der GESAMTE Papierkorb von {0} auf dem Server wird endgültig gelöscht, auch E-Mails, die in der App nicht sichtbar sind. Andere Konten sind nicht betroffen.\n\nDas kann nicht rückgängig gemacht werden! Sind Sie sicher?	The ENTIRE Trash of {0} on the server will be permanently deleted, including emails not visible in the app. Other accounts are not affected.\n\nThis cannot be undone! Are you sure?	TOUTE la corbeille de {0} sur le serveur sera définitivement supprimée, y compris les e-mails non visibles dans l'application. Les autres comptes ne sont pas concernés.\n\nCette action est irréversible ! Êtes-vous sûr ?
+{0} için abonelikten çıkma e-postası gönderildi ✅	Abmelde-E-Mail für {0} gesendet ✅	Unsubscribe email sent for {0} ✅	E-mail de désabonnement envoyé pour {0} ✅
+{0} için {1} e-posta silindi 🧹	{1} E-Mails von {0} gelöscht 🧹	{1} emails from {0} deleted 🧹	{1} e-mails de {0} supprimés 🧹
+{0} için {1} e-posta temizlendi 🧹	{1} E-Mails von {0} aufgeräumt 🧹	{1} emails from {0} cleaned up 🧹	{1} e-mails de {0} nettoyés 🧹
+{0} seçildi	{0} ausgewählt	{0} selected	{0} sélectionnés
+{0} çöp kutusu boşaltıldı ({1} e-posta) 🗑️	Papierkorb von {0} geleert ({1} E-Mails) 🗑️	Trash of {0} emptied ({1} emails) 🗑️	Corbeille de {0} vidée ({1} e-mails) 🗑️
+{0}: {1} e-posta temizlendi, {2} e-posta yerinde bırakıldı: {3}	{0}: {1} E-Mails aufgeräumt, {2} nicht verschoben: {3}	{0}: {1} emails cleaned up, {2} left in place: {3}	{0} : {1} e-mails nettoyés, {2} laissés en place : {3}
+{0}: {1} • Gelen: {2}, Çöp: {3}, Spam: {4}	{0}: {1} • Eingang: {2}, Papierkorb: {3}, Spam: {4}	{0}: {1} • Inbox: {2}, Trash: {3}, Spam: {4}	{0} : {1} • Reçus : {2}, Corbeille : {3}, Spam : {4}
+{0}\n\n--- Orijinal İleti ---\n{1}	{0}\n\n--- Originalnachricht ---\n{1}	{0}\n\n--- Original message ---\n{1}	{0}\n\n--- Message d'origine ---\n{1}
+Çöp	Papierkorb	Trash	Corbeille
+Çöp & Bilgi	Papierkorb & Info	Trash & info	Corbeille et infos
+Çöp Kutusu (Papierkorb) ekranında 'Kalıcı Olarak Sil' veya 'Çöp Kutusunu Boşalt' seçildiğinde, e-postalar Gmail sunucusundan kalıcı olarak tamamen silinir. Bu işlem geri alınamaz.	Mit „Endgültig löschen“ oder „Papierkorb leeren“ werden E-Mails endgültig vom Gmail-Server gelöscht. Das kann nicht rückgängig gemacht werden.	Delete permanently or Empty Trash removes emails from the Gmail server for good. This cannot be undone.	« Supprimer définitivement » ou « Vider la corbeille » efface les e-mails du serveur Gmail. Cette action est irréversible.
+Çöp Kutusu ({0})	Papierkorb ({0})	Trash ({0})	Corbeille ({0})
+Çöp Kutusuna Aktar	In den Papierkorb	Move to Trash	Mettre à la corbeille
+Çöp Kutusuna Aktar ({0})	In den Papierkorb ({0})	Move to Trash ({0})	Mettre à la corbeille ({0})
+Çöp Kutusuna Taşı	In den Papierkorb verschieben	Move to Trash	Déplacer vers la corbeille
+Çöp Kutusunu Boşalt	Papierkorb leeren	Empty Trash	Vider la corbeille
+Çöp kutusu boşaltılamadı: {0}	Papierkorb konnte nicht geleert werden: {0}	Trash could not be emptied: {0}	Impossible de vider la corbeille : {0}
+Çöp kutusu boşaltıldı 🗑️	Papierkorb geleert 🗑️	Trash emptied 🗑️	Corbeille vidée 🗑️
+Çöp kutusu tamamen boş!	Der Papierkorb ist leer!	Trash is empty!	La corbeille est vide !
+Çöpe At	Löschen	Trash	Supprimer
+Çöpe At ({0})	Löschen ({0})	Trash ({0})	Supprimer ({0})
+Çöpe taşınamadı, e-posta yerinde bırakıldı: {0}	Konnte nicht in den Papierkorb verschoben werden: {0}	Could not be moved to Trash and stayed in place: {0}	Impossible de déplacer vers la corbeille : {0}
+Önce bir e-posta hesabı ekleyin	Fügen Sie zuerst ein E-Mail-Konto hinzu	Add an email account first	Ajoutez d'abord un compte e-mail
+Önemliler	Wichtig	Important	Importants
+Önizleme	Vorschau	Preview	Aperçu
+Örn: Dekontları Finans Yap	z. B. Belege zu Finanzen	e.g. Receipts to Finance	ex. : Reçus vers Finances
+Örn: Muhasebe, VIP, Yöneticiler	z. B. Buchhaltung, VIP	e.g. Accounting, VIP	ex. : Comptabilité, VIP
+Örn: fatura, dekont, kargo	z. B. Rechnung, Beleg, Paket	e.g. invoice, receipt, parcel	ex. : facture, reçu, colis
+Özel Etiketler ({0})	Eigene Labels ({0})	Custom labels ({0})	Étiquettes personnalisées ({0})
+İlet	Weiterleiten	Forward	Transférer
+İnceleyip en kısa sürede dönüş yapacağım. ⏳	Ich prüfe das und melde mich bald. ⏳	I will review this and get back to you soon. ⏳	Je regarde cela et je reviens vers vous rapidement. ⏳
+İndiriliyor...	Wird geladen...	Downloading...	Téléchargement...
+İptal	Abbrechen	Cancel	Annuler
+Çöp sekmesinden geri yükleyebilirsiniz. Devam etmek istiyor musunuz?	Sie können sie im Tab Papierkorb wiederherstellen. Möchten Sie fortfahren?	You can restore them in the Trash tab. Do you want to continue?	Vous pouvez les restaurer dans l'onglet Corbeille. Voulez-vous continuer ?
+İzleyici Engellendi	Tracker blockiert	Tracker blocked	Traceur bloqué
+İçerik	Inhalt	Content	Contenu
+Şifre veya Uygulama Şifresi	Passwort oder App-Passwort	Password or app password	Mot de passe ou mot de passe d'application
+Şifreyi Düzenle	Passwort bearbeiten	Edit password	Modifier le mot de passe
+Şifreyi Göster/Gizle	Passwort ein-/ausblenden	Show/hide password	Afficher/masquer le mot de passe
+Şifreyi Güncelle / Uygulama Şifresi Gir	Passwort aktualisieren / App-Passwort eingeben	Update password / enter app password	Mettre à jour / saisir le mot de passe d'application
+Şimdi Eşitle	Jetzt synchronisieren	Sync now	Synchroniser maintenant
+Şimdi Senkronize Et	Jetzt synchronisieren	Sync now	Synchroniser maintenant
+şifreniz	Ihr Passwort	your password	votre mot de passe
+• Gönderen: {0}\n• Durum: Piksel yüklenmedi ✅	• Absender: {0}\n• Status: Pixel nicht geladen ✅	• Sender: {0}\n• Status: pixel not loaded ✅	• Expéditeur : {0}\n• État : pixel non chargé ✅
+• {0} e-posta	• {0} E-Mails	• {0} emails	• {0} e-mails
+⚠️ 3. Kalıcı Olarak Silme:\n	⚠️ 3. Endgültig löschen:\n	⚠️ 3. Permanent deletion:\n	⚠️ 3. Suppression définitive :\n
+📁 4. Hamburger Menü & Klasörler:\n	📁 4. Menü & Ordner:\n	📁 4. Menu & folders:\n	📁 4. Menu et dossiers :\n
+📌 1. Gerçek Gmail Hesabınızı Bağlama:\n	📌 1. Gmail-Konto verbinden:\n	📌 1. Connecting your Gmail account:\n	📌 1. Connecter votre compte Gmail :\n
+🗑️ 2. Gerçek Gmail Çöp Kutusu'na (Papierkorb) Taşıma:\n	🗑️ 2. In den Gmail-Papierkorb verschieben:\n	🗑️ 2. Moving to Gmail Trash:\n	🗑️ 2. Déplacer vers la corbeille Gmail :\n
+Yıldızlı (Markiert)	Markiert	Starred	Suivis
+Ertelenen (Zurückgestellt)	Zurückgestellt	Snoozed	En attente
+Önemli (Wichtig)	Wichtig	Important	Importants
+Alışverişler (Käufe)	Käufe	Purchases	Achats
+Gönderilenler (Gesendet)	Gesendet	Sent	Envoyés
+Zamanlanan (Geplant)	Geplant	Scheduled	Planifiés
+Giden Kutusu (Postausgang)	Postausgang	Outbox	Boîte d'envoi
+Taslaklar (Entwürfe)	Entwürfe	Drafts	Brouillons
+Tüm Postalar (Alle E-Mails)	Alle E-Mails	All mail	Tous les messages
+Spam / İstenmeyen	Spam	Spam	Spam
+Çöp Kutusu (Papierkorb)	Papierkorb	Trash	Corbeille
+Abonelikleri Yönet (Abos verwalten)	Abos verwalten	Manage subscriptions	Gérer les abonnements
+Özel Klasör / Etiket	Eigener Ordner / Label	Custom folder / label	Dossier / étiquette personnalisés
+Tüm Postalar	Alle E-Mails	All emails	Tous les e-mails
+Birincil	Allgemein	Primary	Principale
+Bülten & Abonelik	Newsletter & Abos	Newsletters & subscriptions	Newsletters et abonnements
+Faturalar & Makbuzlar	Rechnungen & Belege	Bills & receipts	Factures et reçus
+Kargolar & Siparişler	Pakete & Bestellungen	Parcels & orders	Colis et commandes
+Seyahat & Biletler	Reisen & Tickets	Travel & tickets	Voyages et billets
+İş & Projeler	Arbeit & Projekte	Work & projects	Travail et projets
+Gereksiz / Spam	Spam	Spam	Spam
+Ertelenen	Zurückgestellt	Snoozed	En attente
+Çöp Kutusu	Papierkorb	Trash	Corbeille
+{0} içinde şunlardan biri varsa: {1}	Wenn {0} eines davon enthält: {1}	If {0} contains one of: {1}	Si {0} contient l'un de : {1}
+Son güncelleme: {0}	Zuletzt aktualisiert: {0}	Last update: {0}	Dernière mise à jour : {0}
+Reklam	Werbung	Ads	Publicités
+Sosyal Medya	Soziale Medien	Social media	Réseaux sociaux
+Faturalar	Rechnungen	Bills	Factures
+Kargo	Pakete	Parcels	Colis
+Otomasyon	Automatik	Automation	Automatisation
+Postaları Gmail'de otomatik etiketle	E-Mails in Gmail automatisch labeln	Label emails in Gmail automatically	Étiqueter automatiquement dans Gmail
+Silinenleri siz silene kadar Silinecekler'de tut	Gelöschte E-Mails aufbewahren, bis Sie sie endgültig löschen	Keep deleted emails until you delete them for good	Conserver les e-mails supprimés jusqu'à suppression définitive
+7 günden eski spam'i kalıcı sil (geri alınamaz)	Spam älter als 7 Tage endgültig löschen (nicht umkehrbar)	Permanently delete spam older than 7 days (cannot be undone)	Supprimer définitivement le spam de plus de 7 jours (irréversible)
+Klasörü Değiştir	Ordner ändern	Change folder	Changer de dossier
+{0} için seçim sonraki postalarda da geçerli olur.	Die Auswahl gilt auch für künftige E-Mails von {0}.	This choice also applies to future emails from {0}.	Ce choix s'applique aussi aux futurs e-mails de {0}.
+Otomatik klasör kullanma	Keinen automatischen Ordner verwenden	Do not use an automatic folder	Ne pas utiliser de dossier automatique
+{0} için klasör kaydedildi	Ordner für {0} gespeichert	Folder saved for {0}	Dossier enregistré pour {0}
+Uygulamada sildikleriniz Silinecekler etiketinde siz kalıcı silene kadar durur. Gmail'in kendi Çöp Kutusu'ndakileri Gmail yaklaşık 30 gün sonra siler.	In der App gelöschte E-Mails bleiben im Label „Silinecekler“, bis Sie sie endgültig löschen. E-Mails im Gmail-Papierkorb löscht Gmail nach etwa 30 Tagen selbst.	Emails deleted in the app stay under the Silinecekler label until you delete them for good. Gmail removes emails in its own Trash after about 30 days.	Les e-mails supprimés restent sous l'étiquette Silinecekler jusqu'à suppression définitive. Gmail efface sa propre corbeille après environ 30 jours.
+{0} abonelikten çıkıldı, {1} için sayfa açmak gerekiyor	{0} abbestellt, bei {1} muss eine Seite geöffnet werden	{0} unsubscribed, {1} need a web page	{0} désabonnements, {1} nécessitent une page web
+30 günden eski reklamları Silinecekler'e taşı	Werbung älter als 30 Tage nach „Zu löschen“ verschieben	Move ads older than 30 days to To delete	Déplacer les publicités de plus de 30 jours vers À supprimer
+Uygulama kapalıyken de eşitle	Auch bei geschlossener App synchronisieren	Sync when the app is closed	Synchroniser quand l'application est fermée
+Önemli yeni postalarda bildirim göster	Bei neuen wichtigen E-Mails benachrichtigen	Notify about new important emails	Notifier les nouveaux e-mails importants
+Haftalık temizlik raporu	Wöchentlicher Bericht	Weekly report	Rapport hebdomadaire
+Engellenen Gönderenler	Blockierte Absender	Blocked senders	Expéditeurs bloqués
+Engeli Kaldır	Freigeben	Unblock	Débloquer
+Göndereni Engelle	Absender blockieren	Block sender	Bloquer l'expéditeur
+Engelle	Blockieren	Block	Bloquer
+{0} adresinden gelen tüm postalar silinecek ve yenileri otomatik silinir. Çöp sekmesinden geri yükleyebilirsiniz.	Alle E-Mails von {0} werden gelöscht, neue werden automatisch gelöscht. Sie können sie im Tab Papierkorb wiederherstellen.	All emails from {0} will be deleted and new ones are deleted automatically. You can restore them in the Trash tab.	Tous les e-mails de {0} seront supprimés, les nouveaux aussi. Vous pouvez les restaurer dans l'onglet Corbeille.
+En Çok Yer Kaplayanlar	Größte E-Mails	Largest emails	E-mails les plus volumineux
+Tüm Bültenleri Seç	Alle Newsletter wählen	Select all newsletters	Choisir toutes les newsletters
+Seçilenlerden Çık ({0})	Auswahl abbestellen ({0})	Unsubscribe selected ({0})	Se désabonner ({0})
+Seçilen göndericilere abonelikten çıkma isteği gönderilecek. Bu işlem geri alınamayabilir. Web sayfası gerektirenler atlanır.	An die gewählten Absender wird eine Abmeldung gesendet. Das lässt sich eventuell nicht rückgängig machen. Absender, die eine Webseite brauchen, werden übersprungen.	An unsubscribe request will be sent to the selected senders. This may not be reversible. Senders that need a web page are skipped.	Une demande de désabonnement sera envoyée. Cette action peut être irréversible. Les expéditeurs nécessitant une page web sont ignorés.
+Önemli postalar	Wichtige E-Mails	Important emails	E-mails importants
+Haftalık rapor	Wochenbericht	Weekly report	Rapport hebdomadaire
+Haftalık posta raporu	Wöchentlicher E-Mail-Bericht	Weekly email report	Rapport hebdomadaire des e-mails
+Bu hafta {0} posta geldi: {1} reklam, {2} bülten, {3} sosyal medya. Okunmamış: {4}.	Diese Woche {0} E-Mails: {1} Werbung, {2} Newsletter, {3} soziale Medien. Ungelesen: {4}.	This week {0} emails: {1} ads, {2} newsletters, {3} social media. Unread: {4}.	Cette semaine {0} e-mails : {1} publicités, {2} newsletters, {3} réseaux sociaux. Non lus : {4}.

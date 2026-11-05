@@ -16,3 +16,13 @@
 local.properties
 .env
 debug.keystore
+keystore.properties
+*.jks
+oauth.properties
+
+# Alt modül derleme çıktıları ve paketler
+build/
+*.apk
+*.aab
+*.msi
+*.keystore

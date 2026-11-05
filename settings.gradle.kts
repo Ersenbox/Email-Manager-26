@@ -25,3 +25,5 @@ dependencyResolutionManagement {
 rootProject.name = "Email-Manager 26"
 
 include(":app")
+include(":core")
+include(":desktop")
