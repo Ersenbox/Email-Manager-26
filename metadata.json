@@ -1,0 +1,6 @@
+{
+  "name": "Email-Manager 26",
+  "description": "Smart email management with advanced labeling, intelligent filtering, 1-tap unsubscribe, sender cleanup, and adaptive multiplatform architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
